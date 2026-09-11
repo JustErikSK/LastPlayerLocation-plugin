@@ -1,0 +1,15 @@
+# Minimum amount of time a player must be online before their location is saved.
+# Value is in seconds.
+minimum-online-time: 60
+
+# Whether player locations should be saved when the server shuts down or restarts.
+save-on-shutdown: true
+
+# Format used for the date and time when a player's location is saved.
+# yyyy - Year
+# MM - Month
+# dd - Day
+# HH - Hour
+# mm - Minute
+# ss - second
+date-format: "yyyy-MM-dd HH:mm:ss"

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LastPlayerLocation">
+    <output-path>$PROJECT_DIR$/out/artifacts/LastPlayerLocation</output-path>
+    <root id="archive" name="LastPlayerLocation.jar">
+      <element id="module-output" name="lastplayerlocation" />
+    </root>
+  </artifact>
+</component>
