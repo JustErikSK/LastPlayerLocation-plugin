@@ -1,0 +1,7 @@
+name: LastPlayerLocation
+version: '1.0'
+main: net.withrage.lastplayerlocation.LastPlayerLocation
+api-version: '26.2'
+authors: [ JustErikSK ]
+description: Records players' last known locations after they have been online for a configurable amount of time.
+folia-supported: true
