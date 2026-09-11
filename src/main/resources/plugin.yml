@@ -1,0 +1,9 @@
+name: Last Player Location
+description: $description
+version: '${version}'
+
+main: net.withrage.lastPlayerLocation.LastPlayerLocation
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ JustErikSK ]
